@@ -1,0 +1,28 @@
+.AddApplicationTitle {
+  margin-top: 80px;
+  color: $primary;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.AddApplicationGroupName {
+  font-size: 1.5rem;
+  color: $primary;
+}
+
+.AddApplicationWrapper {
+  max-width: 90%;
+  margin: auto auto 2rem auto;
+  margin-top: 1rem;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: calc(0.25rem - 1px);
+}
+
+.AddApplicationButton {
+  background-color: $primary;
+  color: white;
+}
+
+.headerFix {
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+}
